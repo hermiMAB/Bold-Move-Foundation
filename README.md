@@ -1,4 +1,4 @@
-**Bold Move Foundation Website**
+#**Bold Move Foundation Website**
 
 **Overview**
 This website was developed for the Bold Move Foundation, a non-profit organization dedicated to empowering vulnerable communities in Kenya through education, healthcare, economic empowerment, digital literacy, and humanitarian support.
