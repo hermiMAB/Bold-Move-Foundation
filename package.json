@@ -1,0 +1,40 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "**Overview** This website was developed for the Bold Move Foundation, a non-profit organization dedicated to empowering vulnerable communities in Kenya through education, healthcare, economic empowerment, digital literacy, and humanitarian support.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermiMAB/The-bold-move-foundation.git"
+  },
+  "homepage": "https://github.com/hermiMAB/The-bold-move-foundation#readme",
+  "bugs": {
+    "url": "https://github.com/hermiMAB/The-bold-move-foundation/issues"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0",
+    "next": "^14.2.20",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.20",
+    "typescript": "^5"
+  }
+  }
+}
